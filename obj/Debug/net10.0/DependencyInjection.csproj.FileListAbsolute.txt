@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Nayan\DependencyInjection\bin\Debug\net10.0\DependencyInjection.exe
+C:\Users\user\source\repos\Nayan\DependencyInjection\bin\Debug\net10.0\DependencyInjection.deps.json
+C:\Users\user\source\repos\Nayan\DependencyInjection\bin\Debug\net10.0\DependencyInjection.runtimeconfig.json
+C:\Users\user\source\repos\Nayan\DependencyInjection\bin\Debug\net10.0\DependencyInjection.dll
+C:\Users\user\source\repos\Nayan\DependencyInjection\bin\Debug\net10.0\DependencyInjection.pdb
+C:\Users\user\source\repos\Nayan\DependencyInjection\obj\Debug\net10.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Nayan\DependencyInjection\obj\Debug\net10.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nayan\DependencyInjection\obj\Debug\net10.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\user\source\repos\Nayan\DependencyInjection\obj\Debug\net10.0\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nayan\DependencyInjection\obj\Debug\net10.0\DependencyInjection.dll
+C:\Users\user\source\repos\Nayan\DependencyInjection\obj\Debug\net10.0\refint\DependencyInjection.dll
+C:\Users\user\source\repos\Nayan\DependencyInjection\obj\Debug\net10.0\DependencyInjection.pdb
+C:\Users\user\source\repos\Nayan\DependencyInjection\obj\Debug\net10.0\DependencyInjection.genruntimeconfig.cache
+C:\Users\user\source\repos\Nayan\DependencyInjection\obj\Debug\net10.0\ref\DependencyInjection.dll
